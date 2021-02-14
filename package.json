@@ -1,0 +1,19 @@
+{
+  "name": "promiseallwiththreshold",
+  "version": "1.0.0",
+  "description": "Tiny project for 1 function and a few tests for it",
+  "scripts": {
+    "test": "jasmine --reporter=jasmine-console-reporter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atsvetk/promiseAllWithThreshold.git"
+  },
+  "author": "Alexandra Tsvetkova",
+  "license": "MIT",
+  "homepage": "https://github.com/Atsvetk/promiseAllWithThreshold#readme",
+  "dependencies": {
+    "jasmine": "^3.6.4",
+    "jasmine-console-reporter": "^3.1.0"
+  }
+}
